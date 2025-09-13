@@ -1,0 +1,3 @@
+/Users/nikitasanko/Desktop/ff/getrepos/cmake-build-debug/CMakeFiles/getrepos.dir
+/Users/nikitasanko/Desktop/ff/getrepos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikitasanko/Desktop/ff/getrepos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
