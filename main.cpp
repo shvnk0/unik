@@ -1,8 +1,9 @@
 #include <iostream>
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    std::cout << 'a' << std::endl;
-    std::cout << 'b' << std::endl;
+using namespace std;
+
+int main(){
+    int a; cin >> a;
+    cout << a + 1 << endl;
     return 0;
 }
